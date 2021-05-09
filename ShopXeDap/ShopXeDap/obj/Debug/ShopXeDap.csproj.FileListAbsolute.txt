@@ -1,0 +1,1418 @@
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup Mới nhát\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\CKFinder.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2 - Copy\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Common.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Common.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\BotDetect.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\BotDetect.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\CKFinder.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Common.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Common.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\BotDetect.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Common.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Common.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\BotDetect.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Common.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Common.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\ShopXeDap.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\BotDetect.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Common.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Model.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\WebGrease.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Common.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Model.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Model.dll.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.csproj.CopyComplete
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\ShopXeDap\obj\Debug\ShopXeDap.pdb
